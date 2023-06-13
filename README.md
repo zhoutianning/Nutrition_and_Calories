@@ -2,6 +2,8 @@
 
 # **Prediction Problem**
 
+**Our exploratory data analysis on this dataset can be found**: [here](https://zhoutianning.github.io/Protein_and_Rating/)
+
 * Our **prediction problem** is predicting predicting the calories of recipes based on nutritions with Random Forest Regressor.
 
 * Our **response variable** is the calories of a recipe. We chose it because we think there is a correlation between nutritions and calories. For instance, a recipe with more total fat is likely to have higher calories. Also if we can predict the calories of a recipe based on the nurtion, it would be helpful for people who want to lose weight.
