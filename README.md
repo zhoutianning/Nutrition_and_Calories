@@ -124,9 +124,9 @@ We add quantiled protein, quantitled sugar, squared carbohydrates and squared to
 
 Here are the ditribution of value of protein and sugar.
 
-tu
+<iframe src="protein_dist.html" width=500 height=400 frameBorder=0></iframe>
 
-tu
+<iframe src="sugar_dist.html" width=500 height=400 frameBorder=0></iframe>
 
 As we can see, The histogram of protein and surgar values are both extremely left skewed because most of the data are in the same range excepet some outliers, and in order to capture the outliers we choose to quantile the values for protein and sugar.
 
@@ -358,7 +358,7 @@ fig_rmse.add_annotation(text='<span style="color:red">Observed Difference in RMS
     x=25,showarrow=False, y=0.17)
 ```
 
-
+<iframe src="perm_rmse.html" width=500 height=400 frameBorder=0></iframe>
 
 ## Conclusion
 
