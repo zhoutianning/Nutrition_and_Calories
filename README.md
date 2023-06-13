@@ -2,6 +2,8 @@
 
 # **Prediction Problem**
 
+### Collabrators : Zhoutianning Pan & Kelly Huang
+
 **Our exploratory data analysis on this dataset can be found**: [here](https://zhoutianning.github.io/Protein_and_Rating/)
 
 * Our **prediction problem** is predicting predicting the calories of recipes based on nutritions with Random Forest Regressor.
